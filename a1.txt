@@ -3,5 +3,6 @@ class devops
 public static void method()
 {
 System.out.println("Hello java");
+System.out.println("hello athige");
 }
 }
