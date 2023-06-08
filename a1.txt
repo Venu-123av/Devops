@@ -1,9 +1,0 @@
-class devops
-{
-public static void method()
-{
-System.out.println("Hello Mava");
-System.out.println("hello maven1");
->>>>>>> ae0b2a36f4903827b0c1351e13fabf873768e3db
-}
-}
